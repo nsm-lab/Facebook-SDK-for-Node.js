@@ -1,0 +1,9 @@
+node_modules/
+npm-debug.log
+/lib/
+.env
+
+.DS_Store
+Thumbs.db
+# WebStrom IDE ignore
+.idea/
